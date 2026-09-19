@@ -1,7 +1,9 @@
+<div align="center">
 # 🐍 Python Strings & Tuples
 
 ### Python | Strings | Tuples | Python Fundamentals
 
+</div>
 ---
 
 ## 📌 Project Overview
@@ -75,7 +77,7 @@ Concepts demonstrated:
 
 ### 🔎 Finding Text in a String
 
-The `find()` method is used to locate **"Python"** within a string and extract the matching text.
+The `find()` method is used to locate Python within a string and extract the matching text.
 
 ```python
 start = str2.find("Python")
@@ -167,9 +169,9 @@ print(t_combine[-3:])
 
 ## 🛠️ Tools & Technologies
 
-**Language:** Python
-**Environment:** Google Colab / Jupyter Notebook
-**Version Control:** GitHub
+* **Language:** Python
+* **Environment:** Google Colab / Jupyter Notebook
+* **Version Control:** GitHub
 
 ---
 
@@ -199,7 +201,7 @@ Python-Strings-and-Tuples/
 
 ## 👩‍💻 **Gayathri S Pillai**
 
-Aspiring Data Analyst | MBA – Business Analytics & Marketing**
+Aspiring Data Analyst | MBA – Business Analytics & Marketing
 
 `Python` `SQL` `Excel` `Power BI` `Data Analytics`
 
