@@ -1,5 +1,5 @@
 <div align="center">
-🐍 PYTHON STRINGS & TUPLES 🚀
+# 🐍 PYTHON STRINGS & TUPLES 🚀
 
 ### Python | Strings | Tuples | Python Fundamentals
 
