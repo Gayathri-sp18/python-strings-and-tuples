@@ -1,7 +1,8 @@
 <div align="center">
+  
 # 🐍 PYTHON STRINGS & TUPLES 🚀
 
-### Python | Strings | Tuples | Python Fundamentals
+### 🔤 String Manipulation | 📦 Tuple Operations | 💻 Python Fundamentals
 
 </div>
 ---
